@@ -1,1 +1,1 @@
-# Data-structure
+# Data types and structures
